@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a small trainig project in Machine Learnng<br>👯 I’m looking to collaborate on AI develop<br>🤝 I’m looking for help with Teaching me a specific branch in ML world<br>🌱 I’m currently learning advanced ML<br>👨🏼‍💻 I'm 15 and my real name is "Mohammad Hossein", my lastname "Moghimi"<br> 🌹  Best wishes for you
+🔭 I’m currently working on a small trainig project in Machine Learnng<br>👯 I’m looking to collaborate on AI develop<br>🤝 I’m looking for help with Teaching me a specific branch in ML world<br>🌱 I’m currently learning advanced ML<br>👨🏼‍💻 I'm 16 and my real name is "Mohammad Hossein", my lastname "Moghimi"<br> 🌹  Best wishes for you
 
 
 ## 🌐 Socials:

@@ -37,7 +37,7 @@ I'm a machine learning enthusiast who likes turning ideas into **working, deploy
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=merkavii&repo=SensorAnomalyDetection&bg_color=000000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=330000&hide_border=false&v=2" alt="SensorAnomalyDetection" />
 </a>
 <a href="https://github.com/merkavii/VisualSearchSystem">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=merkavii&repo=VisualSearchSystem&bg_color=000000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=330000&hide_border=false&v=2" alt="VisualSearchSystem" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=merkavii&repo=VisualSearchSystem&bg_color=000000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=330000&hide_border=false&v=3" alt="VisualSearchSystem" />
 </a>
 <a href="https://github.com/merkavii/CompanyKnolwedgeAssistant">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=merkavii&repo=CompanyKnolwedgeAssistant&bg_color=000000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=330000&hide_border=false&v=2" alt="CompanyKnolwedgeAssistant" />

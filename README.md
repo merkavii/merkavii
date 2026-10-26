@@ -34,13 +34,13 @@ I'm a machine learning enthusiast who likes turning ideas into **working, deploy
 <div align="center">
 
 <a href="https://github.com/merkavii/SensorAnomalyDetection">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=merkavii&repo=SensorAnomalyDetection&bg_color=000000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=330000&hide_border=false&description_lines_count=2&v=3" alt="SensorAnomalyDetection" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=merkavii&repo=SensorAnomalyDetection&bg_color=000000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=330000&hide_border=false&description_lines_count=2&v=4" alt="SensorAnomalyDetection" />
 </a>
 <a href="https://github.com/merkavii/VisualSearchSystem">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=merkavii&repo=VisualSearchSystem&bg_color=000000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=330000&hide_border=false&description_lines_count=2&v=3" alt="VisualSearchSystem" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=merkavii&repo=VisualSearchSystem&bg_color=000000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=330000&hide_border=false&description_lines_count=2&v=4" alt="VisualSearchSystem" />
 </a>
 <a href="https://github.com/merkavii/CompanyKnolwedgeAssistant">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=merkavii&repo=CompanyKnolwedgeAssistant&bg_color=000000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=330000&hide_border=false&description_lines_count=2&v=3" alt="CompanyKnolwedgeAssistant" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=merkavii&repo=CompanyKnolwedgeAssistant&bg_color=000000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=330000&hide_border=false&description_lines_count=2&v=4" alt="CompanyKnolwedgeAssistant" />
 </a>
 
 </div>
